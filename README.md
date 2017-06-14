@@ -1,7 +1,7 @@
 # experiments
 Testing ground for aurelia inquiries
 
-[Demo](https://aurelia-training.github.io/experiments);
+[Demo](https://aurelia-training.github.io/experiments/)
 
 ## Experiment 1
 Conclusion: bound values change after every keystroke
